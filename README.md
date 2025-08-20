@@ -1,4 +1,6 @@
-# 🔊 Voice-Controlled PC Automation  
+
+
+# <img src="https://github.com/user-attachments/assets/4aeb748d-0b92-4932-a8e2-08a008b3813c" alt="Microphone Icon" width="40" height="40" /> Voice-Controlled PC Automation
 
 > Control your Windows PC remotely using **Google Assistant voice commands**.  
 This project lets you **lock, restart, or shut down** your computer from anywhere in the world without worrying about static IPs or firewall restrictions.  
